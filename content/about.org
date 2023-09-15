@@ -1,7 +1,6 @@
 #+title: About
 #+author: valentin
 #+date: 2023-09-14
-#+draft: true
 
 
 #+begin_quote
@@ -14,9 +13,9 @@ I am Valentin and I am a software engineer.
 
 /(pause for "Hi, Valentin!")/
 
-This blog is a project I wanted to start for a long time now. It's meant as a tool for me to organize my thoughts regarding my experience and software development related (or loosely related) topics.
+This blog is a project I wanted to start for a long time now. It's meant as a tool for me to organize my thoughts regarding my experience and software development related (or, better said, /loosely/ related) topics.
 
-It is public, in order to give me a sense of accountability and a motivation to express those thoughts in the most clear way possible. After all, /clarity/ is the ultimate goal for my entire career as a software engineer, and I'm hoping this blog can help me move towards it.
+It is public, in order to give me a sense of accountability and a motivation to express those thoughts in the most clear way possible. After all, /clarity/ is the ultimate goal for my entire career as a software engineer, and I'm hoping this blog can help me move towards it, even just a bit.
 
 It is not on a popular developer blogging platform, because... well, I don't suppose any of my thoughts will be earth-shattering. It's true that 99% of the people there don't express earth-shattering thoughts either, but this fact might come as a surprise to them.
 
