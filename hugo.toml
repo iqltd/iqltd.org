@@ -27,6 +27,23 @@ paginate     = 10
   keywords = "homepage, blog"
   images = [""]
 
+[[params.social]]
+  url   = "https://linkedin.com/in/iqltd"
+  icon  = "linkedin-in" # icon name without the 'fa-'
+  icon_pack = "fab"
+
+[[params.social]]
+  name = "linkedin"
+  url = "https://www.linkedin.com/in/iqltd"
+
+[[params.social]]
+  name = "github"
+  url = "https://github.com/iqltd"
+
+[[params.social]]
+  name = "leetcode"
+  url = "https://leetcode.com/iqltd/"
+
 [taxonomies]
     category = "blog"
     tag      = "tags"
@@ -44,10 +61,6 @@ paginate     = 10
     [languages.en.params.logo]
       logoText = "/home/iqltd"
       logoHomeLink = "/"
-    # or
-    #
-    # path = "/img/your-example-logo.svg"
-    # alt = "Your example logo alt text"
 
   # And you can even create generic menu
   [[menu.main]]
