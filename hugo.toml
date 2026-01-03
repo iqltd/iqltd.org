@@ -1,8 +1,8 @@
-baseurl      = "/"
+baseurl      = "iqltd.org/"
 title        = "Valentin Musoiu"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
-paginate     = 10
+pagination.pagerSize     = 10
 
 [params]
   dateform        = "Jan 2, 2006"
