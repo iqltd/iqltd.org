@@ -1,0 +1,13 @@
+# Generated files by hugo
+public/
+resources/_gen/
+hugo_stats.json
+
+# Local development files
+.hugo_build.temp
+# If you use modules
+.hugo_cache/
+
+# OS generated files
+.DS_Store
+Thumbs.db
