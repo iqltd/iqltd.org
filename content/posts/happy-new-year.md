@@ -26,7 +26,7 @@ This is one of the reasons why it was so hard to take any steps towards starting
 The blogs I found useful were written by true professionals, with plenty of experience in the
 technologies covered, and exquisite writing skills.
 I felt that, if I'm not able to give back something comparable, there is not much point in doing it.
-So I decided that I should start _some day_, when I'm eperienced enough to have useful things to
+So I decided that I should start _some day_, when I'm experienced enough to have useful things to
 write about.
 
 There were two issues with this.
